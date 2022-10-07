@@ -52,5 +52,28 @@ David Gómez Redondo
 
 ---
 
-#
+# Web rosas: FECMA
 
+[FECMA (07/10/2022)](https://www.fecma.org/)
+
+![](/assets/images/fecma.png)
+
+---
+
+# Web rosas: Star guardian riot
+
+[Star guardian riot (07/10/2022)](https://starguardian.riotgames.com/es-es/)
+
+![](/assets/images/star-guardian-riot.png)
+
+---
+
+# Web rosas: Collage Crafting
+
+[Collage Crafting (07/10/2022)](https://collagestudio.ca/en)
+
+![](/assets/images/collage-crafting.png)
+
+---
+
+#
