@@ -76,4 +76,11 @@ David Gómez Redondo
 
 ---
 
-#
+# Web rojas: Izquierda Unida
+
+[Izquierda Unida (07/10/2022)](https://izquierdaunida.org/)
+
+![](/assets/images/izquierda-unida.png)
+
+---
+
