@@ -4,9 +4,12 @@
   "description": "Encuentra tres ejemplos de sitios web donde predominen los siguientes colores.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx marp --output=dist --input-dir=src --allow-local-files"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0"
+  }
 }
