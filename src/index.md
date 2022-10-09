@@ -147,3 +147,27 @@ David Gómez Redondo
 ![](/assets/images/butter.png)
 
 ---
+
+# Web verdes: Ecologistas en acción
+
+[Ecologistas en acción (09/10/2022)](https://www.ecologistasenaccion.org/federaciones/andalucia/)
+
+![](/assets/images/ecologistas.png)
+
+---
+
+# Web verdes: Spring
+
+[Spring (09/10/2022)](https://spring.io/)
+
+![](/assets/images/spring.png)
+
+---
+
+# Web verdes: Baeldung
+
+[Baeldung](https://www.baeldung.com/)
+
+![](/assets/images/baeldung.png)
+
+---
