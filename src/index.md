@@ -166,8 +166,32 @@ David Gómez Redondo
 
 # Web verdes: Baeldung
 
-[Baeldung](https://www.baeldung.com/)
+[Baeldung (09/10/2022)](https://www.baeldung.com/)
 
 ![](/assets/images/baeldung.png)
+
+---
+
+# Web negras: Netflix
+
+[Netflix (09/10/2022)](https://www.netflix.com/es/)
+
+![](/assets/images/netflix.png)
+
+---
+
+# Web negras: Guinness
+
+[Guinness (09/10/2022)](https://www.guinness.com/es-es/)
+
+![](/assets/images/guinness.png)
+
+---
+
+# Web negras: Dropbase
+
+[Dropbase (09/10/2022)](https://www.dropbase.io/)
+
+![](/assets/images/dropbase.png)
 
 ---
