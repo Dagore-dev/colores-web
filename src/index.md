@@ -220,3 +220,28 @@ David Gómez Redondo
 
 ---
 
+# Web blancas: Mozilla
+
+[Mozilla (09/10/2022)](https://www.mozilla.org/en-US/firefox/new/)
+
+![](/assets/images/mozilla.png)
+
+---
+
+# Web blancas: Marp
+
+[Marp (09/10/2022)](https://marp.app/)
+
+![](/assets/images/marp.png)
+
+---
+
+# Web blancas: Sciencedirect
+
+[Sciencedirect (09/10/2022)](https://www.sciencedirect.com/)
+
+![](/assets/images/sciencedirect.png)
+
+---
+
+# Gracias por su atención
