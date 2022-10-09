@@ -12,23 +12,29 @@ David Gómez Redondo
 
 # Webs azules: Twitter
 
+[Twitter (07/10/2022)](https://twitter.com/?lang=es)
+
 ![](/assets/images/twitter.png)
 
 ---
 
-# Web azules: La marea
+# Webs azules: la marea
+
+[la marea (07/10/2022)](https://www.lamarea.com/)
 
 ![](/assets/images/la-marea.png)
 
 ---
 
-# Web azules: Outlook
+# Webs azules: Outlook
+
+[Outlook (07/10/2022)](https://outlook.live.com/mail/)
 
 ![](/assets/images/outlook.png)
 
 ---
 
-# Web moradas: Podemos
+# Webs moradas: Podemos
 
 [Podemos (07/10/2022)](https://podemos.info/)
 
@@ -36,7 +42,7 @@ David Gómez Redondo
 
 ---
 
-# Web moradas: Purple
+# Webs moradas: Purple
 
 [Purple (07/10/2022)](https://purple.com/)
 
@@ -44,7 +50,7 @@ David Gómez Redondo
 
 ---
 
-# Web moradas: Tactygal
+# Webs moradas: Tactygal
 
 [Tactygal (07/10/2022)](https://www.tactyqal.com/)
 
@@ -52,7 +58,7 @@ David Gómez Redondo
 
 ---
 
-# Web rosas: FECMA
+# Webs rosas: FECMA
 
 [FECMA (07/10/2022)](https://www.fecma.org/)
 
@@ -60,7 +66,7 @@ David Gómez Redondo
 
 ---
 
-# Web rosas: Star guardian riot
+# Webs rosas: Star guardian riot
 
 [Star guardian riot (07/10/2022)](https://starguardian.riotgames.com/es-es/)
 
@@ -68,7 +74,7 @@ David Gómez Redondo
 
 ---
 
-# Web rosas: Collage Crafting
+# Webs rosas: Collage Crafting
 
 [Collage Crafting (07/10/2022)](https://collagestudio.ca/en)
 
@@ -76,7 +82,7 @@ David Gómez Redondo
 
 ---
 
-# Web rojas: Izquierda Unida
+# Webs rojas: Izquierda Unida
 
 [Izquierda Unida (07/10/2022)](https://izquierdaunida.org/)
 
@@ -84,7 +90,7 @@ David Gómez Redondo
 
 ---
 
-# Web rojas: Coca cola
+# Webs rojas: Coca cola
 
 [Coca Cola (09/10/2022)](https://www.cocacola.es/)
 
@@ -92,7 +98,7 @@ David Gómez Redondo
 
 ---
 
-# Web rojas: Cruz Roja
+# Webs rojas: Cruz Roja
 
 [Cruz Roja (09/10/2022)](https://www2.cruzroja.es/)
 
@@ -100,7 +106,7 @@ David Gómez Redondo
 
 ---
 
-# Web naranjas: Naranja tradicional de Gandia
+# Webs naranjas: Naranja tradicional de Gandia
 
 [Naranja tradicional de Gandia (09/10/2022)](https://www.naranjatradicionaldegandia.com/)
 
@@ -108,7 +114,7 @@ David Gómez Redondo
 
 ---
 
-# Web naranjas: Ciudadanos
+# Webs naranjas: Ciudadanos
 
 [Ciudadanos (09/10/2022)](https://www.ciudadanos-cs.org/)
 
@@ -116,7 +122,7 @@ David Gómez Redondo
 
 ---
 
-# Web naranjas: Netrix
+# Webs naranjas: Netrix
 
 [Netrix (09/10/2022)](https://netrixdigital.com/)
 
@@ -124,7 +130,7 @@ David Gómez Redondo
 
 ---
 
-# Web amarillas: Glyphy
+# Webs amarillas: Glyphy
 
 [Glyphy (09/10/2022)](https://glyphy.io/)
 
@@ -132,7 +138,7 @@ David Gómez Redondo
 
 ---
 
-# Web amarillas: Postmark
+# Webs amarillas: Postmark
 
 [Postmark (09/10/2022)](https://postmarkapp.com/)
 
@@ -140,7 +146,7 @@ David Gómez Redondo
 
 ---
 
-# Web amarillas: Butter
+# Webs amarillas: Butter
 
 [Butter (09/10/2022)](https://www.butter.us/)
 
@@ -148,7 +154,7 @@ David Gómez Redondo
 
 ---
 
-# Web verdes: Ecologistas en acción
+# Webs verdes: Ecologistas en acción
 
 [Ecologistas en acción (09/10/2022)](https://www.ecologistasenaccion.org/federaciones/andalucia/)
 
@@ -156,7 +162,7 @@ David Gómez Redondo
 
 ---
 
-# Web verdes: Spring
+# Webs verdes: Spring
 
 [Spring (09/10/2022)](https://spring.io/)
 
@@ -164,7 +170,7 @@ David Gómez Redondo
 
 ---
 
-# Web verdes: Baeldung
+# Webs verdes: Baeldung
 
 [Baeldung (09/10/2022)](https://www.baeldung.com/)
 
@@ -172,7 +178,7 @@ David Gómez Redondo
 
 ---
 
-# Web negras: Netflix
+# Webs negras: Netflix
 
 [Netflix (09/10/2022)](https://www.netflix.com/es/)
 
@@ -180,7 +186,7 @@ David Gómez Redondo
 
 ---
 
-# Web negras: Guinness
+# Webs negras: Guinness
 
 [Guinness (09/10/2022)](https://www.guinness.com/es-es/)
 
@@ -188,7 +194,7 @@ David Gómez Redondo
 
 ---
 
-# Web negras: Dropbase
+# Webs negras: Dropbase
 
 [Dropbase (09/10/2022)](https://www.dropbase.io/)
 
@@ -196,7 +202,7 @@ David Gómez Redondo
 
 ---
 
-# Web grises: Studio Vi
+# Webs grises: Studio Vi
 
 [Studio Vi (09/10/2022)](https://viamsterdam.com/)
 
@@ -204,7 +210,7 @@ David Gómez Redondo
 
 ---
 
-# Web grises: Unbounce
+# Webs grises: Unbounce
 
 [Unbounce (09/10/2022)](https://unbounce.com/)
 
@@ -212,7 +218,7 @@ David Gómez Redondo
 
 ---
 
-# Web grises: Vela
+# Webs grises: Vela
 
 [Vela (09/10/2022)](https://welcome.getvela.com/)
 
@@ -220,7 +226,7 @@ David Gómez Redondo
 
 ---
 
-# Web blancas: Mozilla
+# Webs blancas: Mozilla
 
 [Mozilla (09/10/2022)](https://www.mozilla.org/en-US/firefox/new/)
 
@@ -228,7 +234,7 @@ David Gómez Redondo
 
 ---
 
-# Web blancas: Marp
+# Webs blancas: Marp
 
 [Marp (09/10/2022)](https://marp.app/)
 
@@ -236,7 +242,7 @@ David Gómez Redondo
 
 ---
 
-# Web blancas: Sciencedirect
+# Webs blancas: Sciencedirect
 
 [Sciencedirect (09/10/2022)](https://www.sciencedirect.com/)
 
