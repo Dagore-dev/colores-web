@@ -84,3 +84,18 @@ David Gómez Redondo
 
 ---
 
+# Web rojas: Coca cola
+
+[Coca Cola (09/10/2022)](https://www.cocacola.es/)
+
+![](/assets/images/coca-cola.png)
+
+---
+
+# Web rojas: Cruz Roja
+
+[Cruz Roja (09/10/2022)](https://www2.cruzroja.es/)
+
+![](/assets/images/cruz-roja.png)
+
+---
