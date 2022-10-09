@@ -99,3 +99,29 @@ David Gómez Redondo
 ![](/assets/images/cruz-roja.png)
 
 ---
+
+# Web naranjas: Naranja tradicional de Gandia
+
+[Naranja tradicional de Gandia (09/10/2022)](https://www.naranjatradicionaldegandia.com/)
+
+![](/assets/images/naranja-gandia.png)
+
+---
+
+# Web naranjas: Ciudadanos
+
+[Ciudadanos (09/10/2022)](https://www.ciudadanos-cs.org/)
+
+![](/assets/images/ciudadanos.png)
+
+---
+
+# Web naranjas: Netrix
+
+[Netrix (09/10/2022)](https://netrixdigital.com/)
+
+![](/assets/images/netrix.png)
+
+---
+
+
